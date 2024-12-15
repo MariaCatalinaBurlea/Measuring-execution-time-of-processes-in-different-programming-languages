@@ -1,0 +1,37 @@
+
+g
+java:S1192Ş"IDefine a constant instead of duplicating this literal "\t\t\t\t" 3 times.(˜Ş“Å8˜úÿÄ1
+s
+java:S1192‘"PDefine a constant instead of duplicating this literal "Invalid command" 3 times.(Š°ù¾ùÿÿÿÿ8˜úÿÄ1
+j
+java:S1192¼"GDefine a constant instead of duplicating this literal "Tahoma" 4 times.(Ÿ¥‰§úÿÿÿÿ8˜úÿÄ1
+e
+java:S2184°"BCast one of the operands of this addition operation to a "double".(£İõşÿÿÿÿ8šúÿÄ1
+A
+java:S1640c"Convert this Map to an EnumMap.(£‘ÅÎùÿÿÿÿ8›úÿÄ1
+;
+java:S1640d"Convert this Map to an EnumMap.(Ş¨î8›úÿÄ1
+=
+java:S1640˜"Convert this Map to an EnumMap.(ª±ñ8œúÿÄ1
+i
+java:S2095]"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(“Æ•é8ıûÿÄ1
+n
+java:S3252 "LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(ÑÓŸƒûÿÿÿÿ8ƒüÿÄ1
+b
+java:S2147x"ECombine this catch with the one at line 118, which has the same body.(”ı¾8‹üÿÄ1
+?
+java:S2111—"!Use "BigDecimal.valueOf" instead.(±¨¾¨8‘üÿÄ1
+N
+java:S1874—"0Remove this use of "setScale"; it is deprecated.(±¨¾¨8’üÿÄ1
+S
+java:S1874—"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(±¨¾¨8’üÿÄ1
+D
+java:S2111£"!Use "BigDecimal.valueOf" instead.(Â¥À”şÿÿÿÿ8“üÿÄ1
+S
+java:S1874£"0Remove this use of "setScale"; it is deprecated.(Â¥À”şÿÿÿÿ8“üÿÄ1
+X
+java:S1874£"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Â¥À”şÿÿÿÿ8“üÿÄ1
+R
+java:S2864¬"4Iterate over the "entrySet" instead of the "keySet".(«’Šà8–üÿÄ1
+M	java:S106‘"+Replace this use of System.out by a logger.(Š°ù¾ùÿÿÿÿ8üÿÄ1
+M	java:S106Ò"+Replace this use of System.out by a logger.(Š°ù¾ùÿÿÿÿ8¡üÿÄ1

@@ -1,0 +1,52 @@
+
+q
+java:S11927"ODefine a constant instead of duplicating this literal "ERROR MESSAGE" 20 times.(éÄèïÿÿÿÿÿ8Ğè“Á¿1
+|
+java:S1192$"_Define a constant instead of duplicating this literal "./src/tests/javaTest/JavaTest" 10 times.(©®Šó8Ñè“Á¿1
+}
+java:S1192$"`Define a constant instead of duplicating this literal "./src/tests/python/python-test" 10 times.(©®Šó8Ñè“Á¿1
+w
+java:S1192#"ZDefine a constant instead of duplicating this literal "./src/tests/c++/c++_test" 10 times.(°×‡î8Ñè“Á¿1
+z
+java:S1192#"]Define a constant instead of duplicating this literal "./src/tests/create_tests.sh" 10 times.(°×‡î8Ñè“Á¿1
+f
+java:S21478"DCombine this catch with the one at line 53, which has the same body.(±Ÿ—±ÿÿÿÿÿ8öè“Á¿1
+€
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8öè“Á¿1
+f
+java:S2147["DCombine this catch with the one at line 88, which has the same body.(±Ÿ—±ÿÿÿÿÿ8úè“Á¿1
+€
+java:S2142X"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8úè“Á¿1
+g
+java:S2147~"ECombine this catch with the one at line 123, which has the same body.(±Ÿ—±ÿÿÿÿÿ8ıè“Á¿1
+€
+java:S2142{"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8ıè“Á¿1
+h
+java:S2147¡"ECombine this catch with the one at line 158, which has the same body.(±Ÿ—±ÿÿÿÿÿ8ÿè“Á¿1
+
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8ÿè“Á¿1
+h
+java:S2147Å"ECombine this catch with the one at line 194, which has the same body.(±Ÿ—±ÿÿÿÿÿ8‚é“Á¿1
+
+java:S2142Â"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8‚é“Á¿1
+h
+java:S2147æ"ECombine this catch with the one at line 227, which has the same body.(±Ÿ—±ÿÿÿÿÿ8„é“Á¿1
+
+java:S2142ã"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8„é“Á¿1
+h
+java:S2147Š"ECombine this catch with the one at line 263, which has the same body.(±Ÿ—±ÿÿÿÿÿ8†é“Á¿1
+
+java:S2142‡"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8†é“Á¿1
+h
+java:S2147®"ECombine this catch with the one at line 299, which has the same body.(±Ÿ—±ÿÿÿÿÿ8ˆé“Á¿1
+
+java:S2142«"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8ˆé“Á¿1
+h
+java:S2147Ò"ECombine this catch with the one at line 335, which has the same body.(±Ÿ—±ÿÿÿÿÿ8«„—Á¿1
+
+java:S2142Ï"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8«„—Á¿1
+h
+java:S2147ô"ECombine this catch with the one at line 369, which has the same body.(±Ÿ—±ÿÿÿÿÿ8‘ö™Á¿1
+
+java:S2142ñ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(îíüòşÿÿÿÿ8‘ö™Á¿1
+_	java:S899‡"BDo something with the "boolean" value returned by "createNewFile".(œ”Äı8é“Á¿1

@@ -1,0 +1,18 @@
+
+<
+java:S1640r"Convert this Map to an EnumMap.(¢øó§8ª‘¿éÀ1
+=
+java:S1640¯"Convert this Map to an EnumMap.(ª±ñ8ª‘¿éÀ1
+i
+java:S2095u"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ã¤ÅÜ8ì’¿éÀ1
+n
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(ÑÓŸƒûÿÿÿÿ8õ’¿éÀ1
+V
+java:S2864`"4Iterate over the "entrySet" instead of the "keySet".(âÞ¸õûÿÿÿÿ8„“¿éÀ1
+D
+java:S2111¨"!Use "BigDecimal.valueOf" instead.(Â¥À”þÿÿÿÿ8“¿éÀ1
+S
+java:S1874¨"0Remove this use of "setScale"; it is deprecated.(Â¥À”þÿÿÿÿ8’“¿éÀ1
+X
+java:S1874¨"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Â¥À”þÿÿÿÿ8’“¿éÀ1
+M	java:S106é"+Replace this use of System.out by a logger.(Š°ù¾ùÿÿÿÿ8˜“¿éÀ1
